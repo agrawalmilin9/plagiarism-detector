@@ -23,6 +23,10 @@ Example:
 
 ./plagcheck samples/sample_a.cpp samples/sample_b.cpp samples/sample_c.cpp
 
+## Example Output
+
+![Output](images/image.png)
+
 ## Technologies Used
 - C++
 - CMake
