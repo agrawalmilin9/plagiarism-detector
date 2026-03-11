@@ -1,0 +1,3 @@
+D:/Project/Plagarism Detector/build/CMakeFiles/plagcheck.dir
+D:/Project/Plagarism Detector/build/CMakeFiles/edit_cache.dir
+D:/Project/Plagarism Detector/build/CMakeFiles/rebuild_cache.dir
