@@ -170,9 +170,3 @@ Total pairs: 3  |  Flagged: 1
 - **Concurrency** — `std::async`, `std::mutex`, `std::atomic`
 - **Build System** — CMake
 - **Similarity Metric** — Dice Coefficient
-
----
-
-## Author
-
-Built as a self project to explore string algorithms, compiler-style tokenisation, and concurrent systems in C++.
